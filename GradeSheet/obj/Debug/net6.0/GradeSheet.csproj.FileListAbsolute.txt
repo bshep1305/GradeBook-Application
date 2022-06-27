@@ -1,0 +1,15 @@
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/bin/Debug/net6.0/GradeSheet
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/bin/Debug/net6.0/GradeSheet.deps.json
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/bin/Debug/net6.0/GradeSheet.runtimeconfig.json
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/bin/Debug/net6.0/GradeSheet.dll
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/bin/Debug/net6.0/GradeSheet.pdb
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/obj/Debug/net6.0/GradeSheet.csproj.AssemblyReference.cache
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/obj/Debug/net6.0/GradeSheet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/obj/Debug/net6.0/GradeSheet.AssemblyInfoInputs.cache
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/obj/Debug/net6.0/GradeSheet.AssemblyInfo.cs
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/obj/Debug/net6.0/GradeSheet.csproj.CoreCompileInputs.cache
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/obj/Debug/net6.0/GradeSheet.dll
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/obj/Debug/net6.0/refint/GradeSheet.dll
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/obj/Debug/net6.0/GradeSheet.pdb
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/obj/Debug/net6.0/GradeSheet.genruntimeconfig.cache
+/Users/Brandon/Desktop/gradesheet/src/GradeSheet/obj/Debug/net6.0/ref/GradeSheet.dll

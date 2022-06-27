@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Brandon/Desktop/gradesheet/src/GradeSheet/GradeSheet.csproj": {}
+  },
+  "projects": {
+    "/Users/Brandon/Desktop/gradesheet/src/GradeSheet/GradeSheet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Brandon/Desktop/gradesheet/src/GradeSheet/GradeSheet.csproj",
+        "projectName": "GradeSheet",
+        "projectPath": "/Users/Brandon/Desktop/gradesheet/src/GradeSheet/GradeSheet.csproj",
+        "packagesPath": "/Users/Brandon/.nuget/packages/",
+        "outputPath": "/Users/Brandon/Desktop/gradesheet/src/GradeSheet/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Brandon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
